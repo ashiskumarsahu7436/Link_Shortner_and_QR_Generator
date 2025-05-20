@@ -1,4 +1,4 @@
-python-telegram-bot[webhooks]==20.8
+python-telegram-bot==20.3
 requests==2.31.0
 qrcode==7.4.2
-python-dotenv==1.0.0  # For local testing (optional)
+Pillow==10.0.0
